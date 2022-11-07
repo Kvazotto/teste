@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.menu{
+    float: left;
+    height: auto;
+    width: 175px;
+    background-color: rgba(75, 73, 73, 0.479);
+}
+.cabecalho{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    height: 50px;
+    background-color: rgb(117, 113, 113);
+    text-align: center;
+}
+.mei{
+    
+    background-color: #838181;
+    height: 539px;
+    
+
+}
+p{
+    text-decoration: none;
+    font-size: 25px;
+
+}
+
+img{margin-left: 35%;
+
+}
